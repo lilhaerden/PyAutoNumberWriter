@@ -26,11 +26,6 @@ This Python application is created to automatically write a specific number a ce
 
 3. **Inputting Values**: The program will ask you for a number and how many times it should be written. Enter the desired values and wait.
 
-## Example
-
-```bash
-python PyAutoNumberWriter.py
-```
 
 -------------------------------------------------------------------------------------------------------
 # TR
@@ -61,8 +56,3 @@ Bu Python uygulaması, belirli bir sayıyı belirli bir sayıda otomatik olarak 
 
 3. **Girişlerin Yapılması**: Program sizden bir sayı ve kaç kere yazılacağını isteyecek. İstenilen değerleri girin ve bekleyin.
 
-## Örnek
-
-```bash
-python PyAutoNumberWriter.py
-```
